@@ -27,3 +27,5 @@
  - HW1：https://daweiho.github.io/105-2-R-HW-R05247008/20170329_105-2DSPR_HW1.html
  - HW3：https://daweiho.github.io/105-2-R-HW-R05247008/20170427_105-2DSPR_HW3.html
  - HW4：https://daweiho.github.io/105-2-R-HW-R05247008/20170518_105-2DSPR_HW4.html
+ - HW5：https://daweiho.github.io/105-2-R-HW-R05247008/20170525_105-2DSPR_HW5.html
+
